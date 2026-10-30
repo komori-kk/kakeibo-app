@@ -1,0 +1,10 @@
+{
+  "name": "ハッピー家計簿 | 手取り22万の一人暮らし家計管理",
+  "short_name": "ハッピー家計簿",
+  "description": "手取り22万円の一人暮らし向け統合型家計管理Webアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffbeb",
+  "theme_color": "#10b981",
+  "orientation": "portrait"
+}
